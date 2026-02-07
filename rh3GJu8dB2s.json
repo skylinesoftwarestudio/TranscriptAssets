@@ -1,111 +1,201 @@
 [
   {
     "startSeconds": 0,
-    "text": "Today was National Teacher Appreciation Day.",
-    "ipa": "/təˈdeɪ wəz ˈnæʃənəl ˈtiːtʃər əˌpriːʃiˈeɪʃən deɪ/",
-    "translation": "Hôm nay là Ngày Tri Ân Giáo Viên Toàn Quốc."
+    "text": "Today in case you don't know was National Teacher Appreciation Day.",
+    "ipa": "/təˈdeɪ ɪn keɪs ju doʊnt noʊ wʌz ˈnæʃənəl ˈtiːtʃər əˌpriːʃiˈeɪʃən deɪ/",
+    "translation": "Hôm nay, trong trường hợp bạn không biết, là Ngày Tri Ân Giáo Viên Toàn Quốc."
   },
   {
-    "startSeconds": 1,
-    "text": "Oh, you didn’t know?",
+    "startSeconds": 3,
+    "text": "Oh, you didn't know?",
     "ipa": "/oʊ ju ˈdɪdənt noʊ/",
     "translation": "Ồ, bạn không biết à?"
   },
   {
-    "startSeconds": 3,
-    "text": "Today is the day we remember to give thanks to our nation’s educators.",
-    "ipa": "/təˈdeɪ ɪz ðə deɪ wi rɪˈmɛmbər tə ɡɪv θæŋks tə aʊər ˈneɪʃənz ˈɛdʒəˌkeɪtərz/",
-    "translation": "Hôm nay là ngày chúng ta nhớ đến và gửi lời cảm ơn tới các nhà giáo trên toàn quốc."
+    "startSeconds": 4,
+    "text": "Okay well today's the day on which I guess we forget to give thanks to our nation's educators.",
+    "ipa": "/oʊˈkeɪ wɛl təˈdeɪz ðə deɪ ɑn wɪtʃ aɪ ɡɛs wi fərˈɡɛt tə ɡɪv θæŋks tə aʊər ˈneɪʃənz ˈɛdʒəˌkeɪtərz/",
+    "translation": "Được rồi, hôm nay là ngày mà tôi đoán chúng ta quên cảm ơn các nhà giáo dục của đất nước."
   },
   {
-    "startSeconds": 10,
-    "text": "We went on a field trip to the farmer’s market on Fairfax.",
-    "ipa": "/wi wɛnt ɑn ə fiːld trɪp tə ðə ˈfɑrmərz ˈmɑrkɪt ɑn ˈfɛrfæks/",
-    "translation": "Chúng tôi đã có một chuyến đi thực tế đến chợ nông sản ở Fairfax."
+    "startSeconds": 9,
+    "text": "And to honor teachers on this special day we took a field trip to the Farmer's Market on Fairfax.",
+    "ipa": "/ænd tə ˈɑnər ˈtiːtʃərz ɑn ðɪs ˈspɛʃəl deɪ wi tʊk ə fiːld trɪp tə ðə ˈfɑrmərz ˈmɑrkɪt ɑn ˈfɛrfæks/",
+    "translation": "Và để tôn vinh các giáo viên trong ngày đặc biệt này, chúng tôi đã đi thực địa đến Chợ Nông Sản ở Fairfax."
   },
   {
     "startSeconds": 15,
-    "text": "We asked kids to share one thing they learned this year.",
-    "ipa": "/wi æskt kɪdz tə ʃɛr wʌn θɪŋ ðeɪ lɜrnd ðɪs jɪr/",
-    "translation": "Chúng tôi hỏi các em nhỏ chia sẻ một điều mà các em đã học được trong năm nay."
+    "text": "Where we ask kids to share one thing they learned this year.",
+    "ipa": "/wɛr wi æsk kɪdz tə ʃɛr wʌn θɪŋ ðeɪ lɜrnd ðɪs jɪr/",
+    "translation": "Nơi chúng tôi hỏi những đứa trẻ chia sẻ một điều chúng đã học được trong năm nay."
+  },
+  {
+    "startSeconds": 17,
+    "text": "We asked this year what did you learn in school and this is what they told us.",
+    "ipa": "/wi æskt ðɪs jɪr wʌt dɪd ju lɜrn ɪn skuːl ænd ðɪs ɪz wʌt ðeɪ toʊld ʌs/",
+    "translation": "Chúng tôi hỏi năm nay các em đã học được gì ở trường và đây là những gì chúng nói với chúng tôi."
   },
   {
     "startSeconds": 22,
-    "text": "So it’s National Teacher Appreciation Day.",
-    "ipa": "/soʊ ɪts ˈnæʃənəl ˈtiːtʃər əˌpriːʃiˈeɪʃən deɪ/",
-    "translation": "Vì vậy, hôm nay là Ngày Tri Ân Giáo Viên."
-  },
-  {
-    "startSeconds": 24,
-    "text": "What does that mean?",
-    "ipa": "/wʌt dʌz ðæt miːn/",
-    "translation": "Điều đó có nghĩa là gì?"
+    "text": "So it's National Teacher Appreciation Day. What does that mean?",
+    "ipa": "/soʊ ɪts ˈnæʃənəl ˈtiːtʃər əˌpriːʃiˈeɪʃən deɪ wʌt dʌz ðæt miːn/",
+    "translation": "Vậy là Ngày Tri Ân Giáo Viên Toàn Quốc. Điều đó có nghĩa là gì?"
   },
   {
     "startSeconds": 26,
-    "text": "We’re talking about the things teachers have taught us.",
-    "ipa": "/wɪr ˈtɔkɪŋ əˈbaʊt ðə θɪŋz ˈtiːtʃərz hæv tɔt ʌs/",
-    "translation": "Chúng ta đang nói về những điều mà thầy cô đã dạy chúng ta."
+    "text": "We're talking about the things teachers have taught us.",
+    "ipa": "/wɪr ˈtɔkɪŋ əˈbaʊt ðə θɪŋz ˈtiːtʃərz hæv tɔːt ʌs/",
+    "translation": "Chúng ta đang nói về những điều mà giáo viên đã dạy chúng ta."
   },
   {
-    "startSeconds": 30,
+    "startSeconds": 29,
     "text": "Can you tell us one thing you learned in school this year?",
     "ipa": "/kæn ju tɛl ʌs wʌn θɪŋ ju lɜrnd ɪn skuːl ðɪs jɪr/",
-    "translation": "Bạn có thể kể một điều bạn đã học được ở trường trong năm nay không?"
+    "translation": "Em có thể cho chúng tôi biết một điều em đã học ở trường năm nay không?"
   },
   {
-    "startSeconds": 34,
+    "startSeconds": 33,
     "text": "I learned about bugs.",
     "ipa": "/aɪ lɜrnd əˈbaʊt bʌɡz/",
     "translation": "Em đã học về côn trùng."
   },
   {
-    "startSeconds": 40,
-    "text": "We learned in math about shapes with four sides.",
-    "ipa": "/wi lɜrnd ɪn mæθ əˈbaʊt ʃeɪps wɪð fɔr saɪdz/",
-    "translation": "Chúng em học trong môn toán về các hình có bốn cạnh."
+    "startSeconds": 37,
+    "text": "We learned in math about quadrupled.",
+    "ipa": "/wi lɜrnd ɪn mæθ əˈbaʊt ˈkwɑdrəpəld/",
+    "translation": "Chúng em đã học trong môn toán về quadrupled."
+  },
+  {
+    "startSeconds": 42,
+    "text": "Oh I said that wrong. I think I don't know how to say it.",
+    "ipa": "/oʊ aɪ sɛd ðæt rɔŋ aɪ θɪŋk aɪ doʊnt noʊ haʊ tə seɪ ɪt/",
+    "translation": "Ồ, em đã nói sai rồi. Em nghĩ em không biết cách nói nó."
+  },
+  {
+    "startSeconds": 46,
+    "text": "But we know that it's a shape of four sides.",
+    "ipa": "/bʌt wi noʊ ðæt ɪts ə ʃeɪp ʌv fɔr saɪdz/",
+    "translation": "Nhưng chúng em biết rằng đó là một hình có bốn cạnh."
   },
   {
     "startSeconds": 51,
-    "text": "I learned numbers and letters.",
-    "ipa": "/aɪ lɜrnd ˈnʌmbərz ænd ˈlɛtərz/",
-    "translation": "Em đã học các con số và chữ cái."
+    "text": "Can you tell us something you learned in school this year?",
+    "ipa": "/kæn ju tɛl ʌs ˈsʌmθɪŋ ju lɜrnd ɪn skuːl ðɪs jɪr/",
+    "translation": "Em có thể cho chúng tôi biết điều gì đó em đã học ở trường năm nay không?"
+  },
+  {
+    "startSeconds": 55,
+    "text": "Uh, I learned numbers and letters.",
+    "ipa": "/ʌ aɪ lɜrnd ˈnʌmbərz ænd ˈlɛtərz/",
+    "translation": "Ừ, em đã học số và chữ cái."
   },
   {
     "startSeconds": 57,
-    "text": "Numbers are my favorite.",
-    "ipa": "/ˈnʌmbərz ɑr maɪ ˈfeɪvərɪt/",
-    "translation": "Con số là thứ em thích nhất."
+    "text": "Oh, yeah? Which one's your favorite?",
+    "ipa": "/oʊ jæ wɪtʃ wʌnz jʊr ˈfeɪvərɪt/",
+    "translation": "Ồ, vậy à? Cái nào là yêu thích của em?"
   },
   {
-    "startSeconds": 61,
-    "text": "I learned how to tell time.",
-    "ipa": "/aɪ lɜrnd haʊ tə tɛl taɪm/",
-    "translation": "Em đã học cách xem giờ."
+    "startSeconds": 60,
+    "text": "Numbers.",
+    "ipa": "/ˈnʌmbərz/",
+    "translation": "Số."
+  },
+  {
+    "startSeconds": 62,
+    "text": "Tell me something you learned in school this year.",
+    "ipa": "/tɛl mi ˈsʌmθɪŋ ju lɜrnd ɪn skuːl ðɪs jɪr/",
+    "translation": "Kể cho tôi nghe điều gì đó em đã học ở trường năm nay."
+  },
+  {
+    "startSeconds": 64,
+    "text": "I learned, I learned time.",
+    "ipa": "/aɪ lɜrnd aɪ lɜrnd taɪm/",
+    "translation": "Em đã học, em đã học về thời gian."
   },
   {
     "startSeconds": 69,
-    "text": "It’s seven ten… seven eleven.",
-    "ipa": "/ɪts ˈsɛvən tɛn … ˈsɛvən ɪˈlɛvən/",
-    "translation": "Bây giờ là bảy giờ mười… bảy giờ mười một."
+    "text": "There's a clock right over there, do you see it up there?",
+    "ipa": "/ðɛrz ə klɑk raɪt ˈoʊvər ðɛr du ju siː ɪt ʌp ðɛr/",
+    "translation": "Có một cái đồng hồ ngay đằng kia, em có thấy nó ở trên đó không?"
   },
   {
-    "startSeconds": 84,
-    "text": "I learned about fractions in math class.",
-    "ipa": "/aɪ lɜrnd əˈbaʊt ˈfrækʃənz ɪn mæθ klæs/",
-    "translation": "Em đã học về phân số trong lớp toán."
+    "startSeconds": 71,
+    "text": "Yes.",
+    "ipa": "/jɛs/",
+    "translation": "Có."
   },
   {
-    "startSeconds": 104,
+    "startSeconds": 72,
+    "text": "Can you tell me what time it is?",
+    "ipa": "/kæn ju tɛl mi wʌt taɪm ɪt ɪz/",
+    "translation": "Em có thể cho tôi biết bây giờ là mấy giờ không?"
+  },
+  {
+    "startSeconds": 74,
+    "text": "It's 7:10.",
+    "ipa": "/ɪts ˈsɛvən ˈtɛn/",
+    "translation": "Là 7 giờ 10 phút."
+  },
+  {
+    "startSeconds": 79,
+    "text": "7:11.",
+    "ipa": "/ˈsɛvən ɪˈlɛvən/",
+    "translation": "7 giờ 11 phút."
+  },
+  {
+    "startSeconds": 82,
+    "text": "Can you tell us something you learned in school this year?",
+    "ipa": "/kæn ju tɛl ʌs ˈsʌmθɪŋ ju lɜrnd ɪn skuːl ðɪs jɪr/",
+    "translation": "Em có thể cho chúng tôi biết điều gì đó em đã học ở trường năm nay không?"
+  },
+  {
+    "startSeconds": 87,
+    "text": "Math class.",
+    "ipa": "/mæθ klæs/",
+    "translation": "Lớp toán."
+  },
+  {
+    "startSeconds": 88,
+    "text": "What did you learn in math class?",
+    "ipa": "/wʌt dɪd ju lɜrn ɪn mæθ klæs/",
+    "translation": "Em đã học gì trong lớp toán?"
+  },
+  {
+    "startSeconds": 91,
+    "text": "Fractions.",
+    "ipa": "/ˈfrækʃənz/",
+    "translation": "Phân số."
+  },
+  {
+    "startSeconds": 92,
+    "text": "What did you learn about fractions?",
+    "ipa": "/wʌt dɪd ju lɜrn əˈbaʊt ˈfrækʃənz/",
+    "translation": "Em đã học gì về phân số?"
+  },
+  {
+    "startSeconds": 94,
+    "text": "Uh.",
+    "ipa": "/ʌ/",
+    "translation": "Ừ."
+  },
+  {
+    "startSeconds": 96,
+    "text": "That, ooh, I don't know.",
+    "ipa": "/ðæt uː aɪ doʊnt noʊ/",
+    "translation": "Đó, ồ, em không biết."
+  },
+  {
+    "startSeconds": 103,
     "text": "She teaches us how to read.",
     "ipa": "/ʃi ˈtiːtʃɪz ʌs haʊ tə riːd/",
     "translation": "Cô ấy dạy chúng em cách đọc."
   },
   {
     "startSeconds": 108,
-    "text": "Do you like to read?",
-    "ipa": "/du ju laɪk tə riːd/",
-    "translation": "Bạn có thích đọc không?"
+    "text": "Uh-huh. Do you like to read?",
+    "ipa": "/ˈʌˈhʌ du ju laɪk tə riːd/",
+    "translation": "Ừ huh. Em có thích đọc không?"
   },
   {
     "startSeconds": 110,
@@ -114,15 +204,33 @@
     "translation": "Không."
   },
   {
-    "startSeconds": 113,
-    "text": "Do you want to say anything to your teacher?",
-    "ipa": "/du ju wɑnt tə seɪ ˈɛnɪθɪŋ tə jʊr ˈtiːtʃər/",
-    "translation": "Bạn có muốn nói điều gì với giáo viên của mình không?"
+    "startSeconds": 112,
+    "text": "Do you have anything you want to say to one of your teachers?",
+    "ipa": "/du ju hæv ˈɛniθɪŋ ju wɑnt tə seɪ tə wʌn ʌv jʊr ˈtiːtʃərz/",
+    "translation": "Em có điều gì muốn nói với một trong những giáo viên của em không?"
   },
   {
-    "startSeconds": 117,
+    "startSeconds": 115,
     "text": "Hi.",
     "ipa": "/haɪ/",
-    "translation": "Chào cô."
+    "translation": "Xin chào."
+  },
+  {
+    "startSeconds": 116,
+    "text": "By the way, you better not find out about the fun fudge incident.",
+    "ipa": "/baɪ ðə weɪ ju ˈbɛtər nɑt faɪnd aʊt əˈbaʊt ðə fʌn fʌdʒ ˈɪnsɪdənt/",
+    "translation": "Nhân tiện, tốt hơn là cô đừng biết về sự cố fun fudge."
+  },
+  {
+    "startSeconds": 134,
+    "text": "Happy appreciation day.",
+    "ipa": "/ˈhæpi əˌpriːʃiˈeɪʃən deɪ/",
+    "translation": "Chúc mừng ngày tri ân."
+  },
+  {
+    "startSeconds": 137,
+    "text": "If you liked that video then put a ring on it, click the subscribe button below.",
+    "ipa": "/ɪf ju laɪkt ðæt ˈvɪdioʊ ðɛn pʊt ə rɪŋ ɑn ɪt klɪk ðə səbˈskraɪb ˈbʌtən bɪˈloʊ/",
+    "translation": "Nếu bạn thích video đó thì hãy đeo nhấn vào nó, nhấp vào nút đăng ký bên dưới."
   }
 ]
